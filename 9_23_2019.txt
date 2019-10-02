@@ -1,0 +1,14 @@
+ 9/23
+* 1st group meeting. 
+* Decided on app
+* Decided app name
+* Established a group Slack. 
+* Started project milestone 1
+* Decided to what IDE to use
+* Created GitHub repository
+
+Team Number: 202-2
+Team Name: Probable Hedgehogs
+Members: Patrick Faulkner, Michelle Tran, Kevin Lawton, John Ortiz, Kai Hueske-VanCeylon
+
+
