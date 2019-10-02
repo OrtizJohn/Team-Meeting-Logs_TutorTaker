@@ -1,0 +1,11 @@
+﻿Team Number: 202-2
+Team Name: Probable Hedgehogs
+Members: Patrick Faulkner, Michelle Tran, Kevin Lawton, John Ortiz, Kai Hueske-VanCeylon
+Data: 10/2/19
+Meeting Log
+
+
+1. Backlogged all prior meetings and came up with a format for each document
+2. Uploaded documents to to Github
+3. Discussed more on what strengths each of us have 
+4. Narrowing down what each of us will plan to work on before next meeting
