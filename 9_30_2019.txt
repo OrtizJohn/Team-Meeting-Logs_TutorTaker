@@ -1,0 +1,9 @@
+﻿Team Number: 202-2
+Team Name: Probable Hedgehogs
+Members: Patrick Faulkner, Michelle Tran, Kevin Lawton, John Ortiz, Kai Hueske-VanCeylon
+
+
+Meeting Date: 9/30/2019
+* Decided on an initial plan for our workflow. 
+* Downloaded Visual Studio together, as well as the necessary packages for our app
+* Continued to develop our app design, adding ideas for features and further deciding on our framework
