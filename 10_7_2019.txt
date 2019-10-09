@@ -1,0 +1,6 @@
+10/7/2019
+
+-Presentation of HTML/JS for registartion page
+-Presentation of skeleton code (C++) for graph to be used as main data structure
+-began discussion and write up for Milestone 2
+-created tasks to follow up on next Monday
