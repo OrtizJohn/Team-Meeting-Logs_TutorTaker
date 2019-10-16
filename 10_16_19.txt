@@ -1,0 +1,12 @@
+Team Number: 202-2
+Team Name: Probable Hedgehogs
+Members: Patrick Faulkner, Michelle Tran, Kevin Lawton, John Ortiz, Kai Hueske-VanCeylon
+Data: 10/16/19
+
+
+Added more features to milestone 2
+Figuring out group members task for each feature 
+Update Kanban
+Turn in milestone and upload to repo
+
+
