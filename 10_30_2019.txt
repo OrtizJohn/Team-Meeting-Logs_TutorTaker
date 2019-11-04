@@ -1,0 +1,11 @@
+﻿Team Number: 202-2
+Team Name: Probable Hedgehogs
+Members: Patrick Faulkner, Michelle Tran, Kevin Lawton, John Ortiz, Kai Hueske-VanCeylon
+Data: 10/30/19
+
+
+Meeting Log:
+* Discussed what we have left to accomplish for milestone 3
+* Discussed what we will do before the next sprint for milestone 4
+   * Chose who will work on front end vs back end
+   * Figured out who will do architecture diagram, feature list, and web service design
