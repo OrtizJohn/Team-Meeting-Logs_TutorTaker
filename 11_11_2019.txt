@@ -1,0 +1,12 @@
+﻿Team Number: 202-2
+Team Name: Probable Hedgehogs
+Members: Patrick Faulkner, Michelle Tran, Kevin Lawton, John Ortiz, Kai Hueske-VanCeylon
+
+
+
+
+Meeting Log:
+* Went over progress made in the last sprint, planned for the next sprint:
+   * Continue to work with Heroku for hosting
+   * Continue to develop server & functionality
+* Continued work on hosting, NodeJS server, and integration between parts
