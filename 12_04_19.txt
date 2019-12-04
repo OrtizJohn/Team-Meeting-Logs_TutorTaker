@@ -1,0 +1,8 @@
+﻿Team Number: 202-2
+Team Name: Probable Hedgehogs
+Members: Patrick Faulkner, Michelle Tran, Kevin Lawton, John Ortiz, Kai Hueske-VanCeylon
+
+
+* Cleaned up some small details on our website
+* Added some final touches to make sure the buttons takes the user to where it needs to actually go
+* Figure out time to meet later today to work on presentation
